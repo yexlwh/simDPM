@@ -1,5 +1,5 @@
 clear all;
-inputData=load('E:\¾ÉµçÄÔ×ÊÁÏ\dp_linear space\Hopkins155\2T3RCRTP\2T3RCRTP_truth.mat')
+inputData=load('2T3RCRTP_truth.mat')
 x=inputData.x;
 s=inputData.s;
 [C N F]=size(x);
