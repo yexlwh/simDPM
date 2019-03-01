@@ -1,5 +1,5 @@
 clear all;
-inputData=load('2T3RCRTP_truth.mat')
+inputData=load('1R2RCR_truth.mat')
 x=inputData.x;
 s=inputData.s;
 [C N F]=size(x);
